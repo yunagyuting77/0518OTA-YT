@@ -1,4 +1,4 @@
 {
   "version": "1.0.1",
-  "firmware": "https://raw.githubusercontent.com/你的帳號/esp32-ota-demo/main/firmware/firmware.bin"
+  "firmware": "https://raw.githubusercontent.com/你的帳號/esp32-ota-demo/main/firmware/0518.bin"
 }
